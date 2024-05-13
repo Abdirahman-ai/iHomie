@@ -1,4 +1,4 @@
-# Milestone 1 - iHomie GROUP 5 (Unit 9)
+# Milestone 1 - iHomie GROUP 5 (Unit 10)
 ### Check out:  [App Demo Video](https://www.youtube.com/watch?v=yo-wLrQHV30)
 ## Table of Contents
 
